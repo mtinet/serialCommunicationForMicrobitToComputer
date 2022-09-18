@@ -1,3 +1,15 @@
+1. python 설치
+2. 이 깃허브 다운로드
+3. mbedWinSerial_16466.exe 파일을 설치
+4. bitio.hex 파일을 마이크로비트에 업로드
+5. cmd 창을 열고 위 폴더로 이동
+6. pip install pynput 명령어로 pynput라이브러리 설치
+7. python controller.py 명령어로 마이크로비트 연결
+8. 마이크로비트 시리얼통신 세팅을 위한 작업 실시
+9. 마이크로비트의 A버튼을 눌러 사용 시작
+
+
+
 <h1 align="center">
 	<a href="https://github.com/musabkilic/MicroBike">MicroBike</a>
 </h1>
